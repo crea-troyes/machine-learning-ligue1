@@ -4,7 +4,7 @@ require 'vendor/autoload.php';
 use Phpml\Classification\KNearestNeighbors;
 use Phpml\Metric\Accuracy;
 
-$apiKey = '3ae3989ac2a94feab144a4954d7f5d2b'; // remplace par ta clé API
+$apiKey = 'API-KEY'; // remplace par ta clé API
 $competition = 'FL1'; // Ligue 1
 $status = 'FINISHED';
 
